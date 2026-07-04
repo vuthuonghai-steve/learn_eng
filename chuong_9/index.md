@@ -1,4 +1,4 @@
-# TỪ VỰNG HỌC (Word Study)
+# Từ Vựng Học (Word Study)
 
 > Trích xuất từ: Giải Thích Ngữ Pháp Tiếng Anh
 > Mai Lan Hương & Hà Thanh Uyên

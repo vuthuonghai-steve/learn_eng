@@ -1,4 +1,4 @@
-# MỆNH ĐỀ & CỤM TỪ (Clauses & Phrases)
+# Mệnh Đề & Cụm Từ (Clauses & Phrases)
 
 > Trích xuất từ: Giải Thích Ngữ Pháp Tiếng Anh
 > Mai Lan Hương & Hà Thanh Uyên

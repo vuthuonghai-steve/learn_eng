@@ -1,4 +1,4 @@
-# CÂU BỊ ĐỘNG (Passive Voice)
+# Câu Bị Động (Passive Voice)
 
 > Trích xuất từ: Giải Thích Ngữ Pháp Tiếng Anh
 > Mai Lan Hương & Hà Thanh Uyên

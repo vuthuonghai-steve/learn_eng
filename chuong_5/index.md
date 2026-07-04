@@ -1,4 +1,4 @@
-# CÂU ĐIỀU KIỆN (Conditional Sentences)
+# Câu Điều Kiện (Conditional Sentences)
 
 > Trích xuất từ: Giải Thích Ngữ Pháp Tiếng Anh
 > Mai Lan Hương & Hà Thanh Uyên

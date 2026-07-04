@@ -91,7 +91,7 @@ Tài liệu ngữ pháp tiếng Anh toàn diện, được tổ chức theo chư
 | Mục | Số lượng |
 |-----|----------|
 | Tổng số chương | 9 chương + bổ sung + đáp án |
-| Tổng số file chủ đề | 27 file |
+| Tổng số file chủ đề | 31 file |
 | Tổng trang gốc | 417 trang (5–417) |
 
 ## Ghi chú

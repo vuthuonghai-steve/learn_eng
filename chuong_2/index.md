@@ -1,4 +1,4 @@
-# THÌ (Tenses)
+# Thì (Tenses)
 
 > Trích xuất từ: Giải Thích Ngữ Pháp Tiếng Anh
 > Mai Lan Hương & Hà Thanh Uyên

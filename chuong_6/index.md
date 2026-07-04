@@ -1,4 +1,4 @@
-# LỜI NÓI GIÁN TIẾP (Indirect Speech)
+# Lời Nói Gián Tiếp (Indirect Speech)
 
 > Trích xuất từ: Giải Thích Ngữ Pháp Tiếng Anh
 > Mai Lan Hương & Hà Thanh Uyên

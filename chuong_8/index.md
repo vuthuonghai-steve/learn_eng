@@ -1,4 +1,4 @@
-# SỰ DIỄN TẢ VỀ SỐ LƯỢNG (Expression of Quantity)
+# Sự Diễn Tả Về Số Lượng (Expression of Quantity)
 
 > Trích xuất từ: Giải Thích Ngữ Pháp Tiếng Anh
 > Mai Lan Hương & Hà Thanh Uyên

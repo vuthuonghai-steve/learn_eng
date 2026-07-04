@@ -4,9 +4,9 @@
 
 --- *Trang 385* ---
 
-Chuong 1
-TỪ LOẠI (THE PARTS OF SPEECH)
-8 NOUNS
+## Chương 1
+### Từ Loại (The Parts of Speech)
+### I. Nouns
 L 1.C 2U 3U 4U 5C
 6U 7.C 8U 9.C 10.C
 nu 12.C 13U 14C 15.U
@@ -108,14 +108,13 @@ XIV.2. Tomorrow's meeting has been cancelled
 9. I'l see you in a week's time.
 10. The yesterday's paper reported...
 
-B® PRONOUNS
+### II. Pronouns
 
 1 2We 6. Me-it 10. them - it - they
 3. you - us 7. he - him
 4. he che 8.1- you - them - they.
 
 5. it-it- her -she 9, she - They - you - him
-
 
 --- *Trang 386* ---
 
@@ -208,7 +207,7 @@ X.1.a 6b 1.4
 3a 8b 13.4
 4d 9b 14b
 56 10.6 156
-» ADJECTIVE
+### III. Adjectives
 
 1. pleasant, ideal, quie, shor, popular, lovely, friendly, helpful,
 good, marvelous, excellent, local
@@ -252,7 +251,6 @@ VIL. 2. a lovely oid glass vase
 12. long straight black hair
 13. valuable Australian postage stamps
 14. red metal kitchen chairs
-
 
 --- *Trang 387* ---
 
@@ -345,7 +343,7 @@ XVII. 2. Ive lived here most of my Ife.
 
 10. My holiday starts in ten days’ time.
 
-D ADVERB
+### IV. Adverbs
 I. Adverb Position Adverb Position
 1. Once fort 6.poltely mới
 2.often md 7. immediately mid
@@ -386,7 +384,6 @@ IV. 2. We certainly can’ afford a new car / Certainly we can.
 4. The tourists didn’ walk ar
 5 metal Soom ness hits oe
 6.1 haven't been lo the cinema recently.
-
 
 --- *Trang 388* ---
 
@@ -473,7 +470,7 @@ an a small stream.
 
 was | shown how to operate the machine.
 
-B COMPARISION
+### V. Comparison
 
 1. 2.as comfortable as 7. as well as
 Jasquelyas 8 as exciing
@@ -536,9 +533,6 @@ busier at work today than usual.
 7. the wettest month of 8. the most delicious meal
 
 9. the most carefully of 10 the best players in
-
-
-
 
 --- *Trang 389* ---
 
@@ -657,7 +651,7 @@ XIV. 1. This hotel is the most expensive.
 9. Its the most romantic story I've ever read.
 10. A bus is less expensive than a tax.
 
-B VERBS
+### VI. Verbs
 
 3. must 14. have to
 4.had to 15. must/ have to
@@ -676,7 +670,6 @@ B VERBS
 1. 1. needn't - mustn't
 
 2. must - mustn't - needn't
-
 
 --- *Trang 390* ---
 
@@ -831,7 +824,6 @@ XIV. 2. We must avoid wasting so much time.
 
 13. My mother isnt used to walking so far.
 
-
 --- *Trang 391* ---
 
 14. He insisted on showing his photographs to me.
@@ -871,7 +863,7 @@ XVI. 1. lying
 18. feel - look
 19.10 know - read
 2. tobeleft
-B PHRASAL VERBS
+### VII. Phrasal Verbs
 L fon 8. took 15. out
 2. looking - away 9.looking 16. down
 3W 10. after 17. give
@@ -906,7 +898,6 @@ H.1,9how..round 11. blow up
 W.iioundout 3.sentout  5.putof
 2leftout 4. throw away 8.made up
 7. go onl cany on
-
 
 1. Im looking for my diary.
 
@@ -961,7 +952,7 @@ V.1i.feedup 8 closed down
 7.come about 14. tumed it down
 
 15. look back on
-PREPOSITIONS
+### VIII. Prepositions
 tin 8 1.4 16.0n-in
 200 7a 124t-n 17.0n
 in Bon f3on-in 18m
@@ -970,7 +961,6 @@ don Salon 14.in 19.in
 5n 10.On-at15.at 20.in
 M.20n 4on 6n Bon 10.in 12.4
 ix 5x 7a 9n 1.on
-
 
 --- *Trang 392* ---
 
@@ -1091,7 +1081,7 @@ Xvi. 1.d 6.d fb 165
 XVHL2on Sat gin Tiun0
 3.20 66 9. across
 4.0n T.on 10. during
-D CONIUNCTIONS
+### IX. Conjunctions
 
 . 2. He loves her and she loves him, so they are getting
 
@@ -1105,7 +1095,6 @@ The postman banged the gate and shouted at Lulu, soshe
 bit him.
 
 oo
-
 
 --- *Trang 393* ---
 
@@ -1201,7 +1190,7 @@ tivity to others. h
 15. Success in arate requires not only balance and skil but
 also concentration and mental alertness.
 
-8 ARTICLES
+### X. Articles
 L3a 50 7a 10.2-0 13.Ø-a
 4an 60 8.0 1a 14Ø
 9.an-Ø 12.an 15.an-a
@@ -1248,7 +1237,6 @@ almosphere
 11. the guitar - the piano
 
 12. the telescope - the telescope - astronomy
-
 
 --- *Trang 394* ---
 
@@ -1300,8 +1288,8 @@ o.the-a-1
 
 10.The-0-0 ites
 
-Chuong 2
-TH (TENSES)
+## Chương 2
+### Thì (Tenses)
 L 1.fows 4.gr0w
 
 2 belongs 5. isnt raining
@@ -1372,7 +1360,6 @@ VI. 1. When Don arrived, we were having coffee.
 2. He sat down on a chair while | was painting it
 3. The students were playing a game when the professor
 amived.
-
 
 --- *Trang 395* ---
 
@@ -1558,7 +1545,6 @@ XVI. 1. Have you seen
 
 10. does it take
 
-
 --- *Trang 396* ---
 
 11. Have you finished
@@ -1675,7 +1661,6 @@ XXIV. 1. Did you buy - | wanted - I'd/ | had left
 
 16. I'm/ | am living - I've/ | have found :
 
-
 --- *Trang 397* ---
 
 17. she'd/ she had never used - didn't know
@@ -1695,7 +1680,7 @@ XX1c [20.40 đa Cha
 1b. t0: le Wa Be
 6b 7b 18d 196. Ab
 Nd “226 Bs Wd Ba
-B SEQUENCE OF TENSES
+### VI. Sequence of Tenses
 1. will rain 9.woudend 17. has lived
 2 would get 10. buit 18. had helped
 3. had lost fl. wiltake 19. has just said
@@ -1836,7 +1821,6 @@ sitting - saw - started
 5. has been raining - has dropped - is - was shining - was.
 - changes - wake - will be snowing
 
-
 --- *Trang 398* ---
 
 8. is - grew - greatly admired! had greatly admired - had
@@ -1848,9 +1832,8 @@ walking - saw - has seen - hadn't arrived - had been
 waiting/ were waiting - have been trying/ have tried -
 have had - are taking - believe - want
 
-Chuong 3
-MỆNH ĐỀ VA CUM TỪ
-(CLAUSES AND PHRASES)
+## Chương 3
+### Mệnh Đề và Cụm Từ
 IL 1.had 11. had gone
 2. werel was shining 12. would sing
 3. had gone 13. was! were lying
@@ -1879,7 +1862,7 @@ I. 1.1hadn't eaten
 
 14. you wouldn't gol didn't go
 
-16. [di | had saved
+16. [đi | had saved
 
 16. it was! were
 
@@ -1946,7 +1929,7 @@ Vic 2c da dc 5a
 
 6b Tc 8b 9a 10.4
 
-» PHRASES AND CLAUSE OF PURPOSE
+### II. Phrases and Clauses of Purpose
 
 1. | hurried in order not to be late for the meeting.
 
@@ -1971,7 +1954,6 @@ in order nottoforgetto go.
 9. Tom tumed on the radio to hear the football resus.
 10. We wore warm clothes so as not to get cold.
 
-
 . 1. Rachel tumed on the TV so that she could watch the news.
 
 I'l post the card today in order that it gets/ will get there on
@@ -1988,8 +1970,6 @@ on time.
 overtake.
 Jackson is planning to take a semester off so that he will
 travel travels in Europe.
-
-
 
 --- *Trang 399* ---
 
@@ -2059,8 +2039,6 @@ disturb my neighbors.
 
 ao
 
-
-
 IV. 2. Claude studies encyclopedias so that he can
 
 v
@@ -2108,7 +2086,7 @@ v1
 9. ... | could would pass the final exam.
 :. siop people stealing things.
 
-B PHRASES AND CLAUSES OF RESULT
+### III. Phrases and Clauses of Result
 
 1. 1. t0o hastily 8. clearly enough
 2.dificut enough 7. 100 many mistakes
@@ -2194,8 +2172,6 @@ toget there.
 
 ® ~e oo wn
 
-
-
 --- *Trang 400* ---
 
 vit.
@@ -2241,9 +2217,7 @@ day indoors
 10. The music was so loud (that) you could hear it fom
 miles away.
 
-
 li
-
 
 VIN. Dép án gợi ý
 
@@ -2267,7 +2241,7 @@ VIN. Dép án gợi ý
 
 m1,
 
-PHRASE AND CLAUSE OF CAUSE OR REASON
+### IV. Phrase and Clause of Cause or Reason
 1. because of 4. because 7. because of
 
 2. because 5. because of 8. because of
@@ -2319,8 +2293,6 @@ canceled.
 severely sprained ankle.
 2. The water in most rivers is unsafe to drink because of its
 
-
-
 pollution.
 
 3. We had to stay in London an extra day because of the fog
@@ -2328,7 +2300,6 @@ atthe airport.
 
 4. Bill has to do all of the cooking and cleaning because of
 his wife's illness.
-
 
 --- *Trang 401* ---
 
@@ -2358,7 +2329,7 @@ because of their extremely sharp teeth.
 its difficulty.
 15. John succeeded in his exam because of his hard and
 methodical work.
-B PHRASES AND CLAUSES OF CONCESSION
+### V. Phrases and Clauses of Concession
 I. 1. Although 6. although 11. because
 2.inspteof 7.becauseof 12 inspite of
 3.becauseof 8.because 13. because of
@@ -2457,7 +2428,7 @@ my question
 ways believe it
 14.11 find him, no matter where he has gone.
 15. Phone me when you arrive, however ate itis.
-B ASIF/ AS THOUGH ...
+### VI. As If/ As Though ...
 1. as if she was enjoying it.
 2.35 if he meant what he was saying.
 3.as if thas just been cut.
@@ -2470,8 +2441,6 @@ B ASIF/ AS THOUGH ...
 10. as if someone has been smoking here.
 
 m9 Gl CG I SY
-
-
 
 --- *Trang 402* ---
 
@@ -2525,7 +2494,7 @@ VIL. 1 had been run over by a tenon truck
 8. you would stop fighting
 9. they had told me the truth
 10. he came to my house tonight
-B NOUN CLAUSES
+### VII. Noun Clauses
 1. 1.1 wonder fl whether it wil rain
 2. Where she went is none of your business.
 3.1 wonder how far itis from New York to Jakarta
@@ -2546,7 +2515,7 @@ each other.
 
 L1b2c3d4c5d6braBblallc
 
-RELATIVE CLAUSES
+### VIII. Relative Clauses
 1. who 7. which 13. whose
 20 8. whom 14. who
 3. which 9. which/ that 15.0
@@ -2598,7 +2567,6 @@ picked up aftr the meeting.
 19. Louis knows the woman who's meeting us at the airport
 tomorrow.
 
-
 --- *Trang 403* ---
 
 20. The scientist who discovered a new planet has won the
@@ -2641,7 +2609,6 @@ The reason why I'm phoning you is to invite you to
 my party.
 5. Mark likes to travel at night when the roads are quiet.
 6. The Riverside Restaurant, where | once had lunch with
-
 
 Henry, is very beautiful
 7. She doesnt want to speak to the cause why she divorced
@@ -2765,7 +2732,6 @@ al looking forward
 
 # Đáp Án (tiếp theo — trang bổ sung từ các file phụ)
 
-
 --- *Trang 404* ---
 
 IX. 1. Do you know the woman coming toward us?
@@ -2885,8 +2851,8 @@ Xvid xe 3c 4c 5d
 16.a 1.a 18c 19.2 20c
 2.d 2. 23. 24a 25d
 
-Chương 4
-CÂU (SENTENCES)
+## Chương 4
+### Câu (Sentences)
 
 I. 3. Has Mark been to Los Angeles?
 4. Where did you buy your coat?
@@ -3104,7 +3070,7 @@ big city.
 
 The bus knocked him down.
 
-B EMPHASIS
+### II. Emphasis
 L 2itddoost  3.youdolook  4.itdoes stop
 5.1ddgo 6. they do quarrel 7. he does care
 8.lddenpy . 9.Idowory 10. she did see
@@ -3229,9 +3195,8 @@ who teaches ../ David i the person who teaches ...
 
 30. Don't you let me wait so long.
 
-Chuong 5
-CÂU ĐIỀU KIỆN
-(CONDITIONAL SENTENCES)
+## Chương 5
+### Câu Điều Kiện
 
 1.found
 2. willbe - am not
@@ -3456,9 +3421,8 @@ Vil. c 2d 3c 4d 5.d
 2.c 2.d 2.b 24.0 25.b
 26.b 27. 28a 2.d 30.d
 
-Chuong 6
-LỜI NÓI GIÁN TIẾP
-(INDIRECT SPEECH)
+## Chương 6
+### Lời Nói Gián Tiếp
 L 2. Jane told Tom (that) he played very well.
 
 7 Sue said (that) she lef had let school a year before.
@@ -3531,7 +3495,6 @@ was playing/ had been playing tennis.
 12. He wondered if whether they liked him.
 
 3. He wanted lo know where | lived.
-
 
 6
 
@@ -3652,9 +3615,8 @@ WI 1b 2d 3c 4c 5a
 6d 7d 8a 9a 10.b
 1c 12b 13.d 14a 15.a
 16b 17.c 18.d 19.b 20c
-Chương 7
-CÂU BỊ ĐỘNG
-(PASSIVE SENTENCES)
+## Chương 7
+### Câu Bị Động
 L 1. is surrounded 2. was invited
 3. are caused 14. is being built
 5. were blown 6. have been murdered
@@ -3953,9 +3915,8 @@ XW.1c 2b 3b 4d 5a
 la 12c 13.d 14a 15.d
 16c 17a 18c 19.d 20c
 
-Chương 8
-SỰ DIỄN TẢ VỀ SỐ LƯỢNG
-(EXPRESSION OF QUANTITY }
+## Chương 8
+### Sự Diễn Tả Về Số Lượng
 
 IL any 2.some  3.any-some 4. some
 5. any 6. any 7. some 8. any
@@ -4029,8 +3990,8 @@ XW 1b 6đ Ta 16.d
 4c 9c 14c 19.4
 5b 10.¢ 15.4 2.2
 
-Chuong 9
-TỪ VỰNG HOC (WORD STUDY)
+## Chương 9
+### Từ Vựng Học (Word Study)
 I. 1. curious 35. beautifully 67.pleasure
 12. easly 38, cooker 68. symbolizes
 3. silent 37. colorless 69. socialist
@@ -4121,7 +4082,7 @@ IL. 1. made fun of
 48. pay attention tol take account of put an end to
 49. give way to
 50. make a fuss over! pay attention to
-B STYLES
+### II. Styles
 1.1. He didn't intend to make a long journey with her.
 2. Has the city goverment decided to build ...?
 3. She isn't interested in what she ...
@@ -4230,9 +4191,7 @@ on the fields.
 
 --- *Trang 414* ---
 
-IRREGULAR VEHRS
-
-(Bong tie bat qui te)
+### Irregular Verbs
 
 abode
 arisen
@@ -4296,22 +4255,22 @@ dreamt, dreamed
 drunk
 
 PAST PARTICIPLE MEANINGS
-(Qua khứ phan từ - V3) | (Nghia)
-chịu dung, trú ngụ
+(Quá khứ phân từ - V3) | (Nghĩa)
+chịu đựng, trú ngụ
 
 phát sinh, nảy sinh
-thức dậy, danh hức
-thi, la, ở
+thức dậy, đánh thức
+thì, là, ở
 
 chịu, mang, sinh
 
-dap, đánh
+đập, đánh
 
 trở nên, tré thành
 
 xảy đến, xảy ra
 
-bát đều
+bắt đầu
 
 ngắm nhìn, trông thấy
 uốn cong
@@ -4320,7 +4279,7 @@ van xin
 
 đánh cuộc, có
 
-ra gid, trỏ gió
+ra giá, trả giá
 
 ra lệnh, bảo
 
@@ -4328,43 +4287,43 @@ trói, buộc
 
 cắn, đốt
 
-chay máu
+chảy máu
 
 thi
 
-lam gay, làm vỡ; gãy, vỡ
-nuôi nống
+làm gãy, làm vỡ; gãy, vỡ
+nuôi nấng
 
-mang lại, đem lai
-phat thanh, truyền hình
+mang lại, đem lại
+phát thanh, truyền hình
 xây dựng
 
-đốt cháy, đốt, thap
+đốt cháy, đốt, thắp
 vỡ, nổ
 
 mua
 
-ném, quặng
-bát lấy, bt kip, đón
+ném, quăng
+bắt lấy, bắt kịp, đón
 chọn, lựa
 
-bám vio, quyền yến
+bám vào, quyến yến
 đến
 
-tri giá
+trị giá
 
 bò
 
-cát
+cắt
 
-buôn bón, dé cap, gio hiệp
-dao, bới
+buôn bán, đề cập, giao hiệp
+đào, bới
 
 làm
 
 kéo, vẽ
 
-mơ, nằm mơ, mơ mang
+mơ, nằm mơ, mơ màng
 uống
 
 --- *Trang 415* ---
@@ -4419,7 +4378,7 @@ lie
 light
 lose
 
-malo
+make
 
 drove
 
@@ -4567,26 +4526,26 @@ lost
 
 mada
 
-được, dat dược, có được
+được, dat được, có được
 cho
 
-di
+đi
 
 xay, nghiền nhỏ
-mọc, lớn lên, phat triển
+mọc, lớn lên, phát triển
 treo
 
 có
 
 nghe
 
-giấu, nếp, tin
+giấu, nấp, trốn
 đụng, đánh, va
-cém, giữ, tổ chức
+cầm, giữ, tổ chức
 làm đau, làm hỏng
 nhập liệu
 
-mm clo fect
+
 
 --- *Trang 416* ---
 
@@ -4736,19 +4695,19 @@ có nghĩa, định, muốn nói
 
 gặp
 
-làm mê muội, nhằm đường
-pham sai lẻm, nhằm
-hiểu làm, hiểu sai
+làm mê muội, lầm đường
+phạm sai lầm, lầm
+hiểu lầm, hiểu sai
 cắt, xén (cỏ)
 
 vượt, hơn hẳn
-lớnhơn
+lớn hơn
 
-vượt qua, khóc phục
+vượt qua, khắc phục
 làm quá
 
-trỏ tiền, thanh toán
-để, đạt
+trả tiền, thanh toán
+để, đặt
 
 bỏ, rời bỏ
 
@@ -4756,7 +4715,7 @@ bỏ, rời bỏ
 
 xé rách
 
-vứt bỏ, giỏi thoát
+vứt bỏ, giải thoát
 cưỡi (ngựa), đi xe
 rung, reo (chuông)
 mọc lên, bốc lên
@@ -4765,50 +4724,50 @@ cưa
 
 nói
 
-thấy, nhìn hấy
+thấy, nhìn thấy
 tìm kiếm
 
 bán
 
 gửi
-dat, để, sắp xếp
+đặt, để, sắp xếp
 may, khâu
 
-lay, rung, lóc
+lắc, rung, lắc
 
-go, cét, xén
+gọt, cắt, xén
 
-đồ xuống, rung, rơi
-chiếu sóng
+đổ xuống, rụng, rơi
+chiếu sáng
 
-bán, phóng
+bắn, phóng
 
-đỏ ra, đưa ra, trưng bay
-co lai, rút lai
+đổ ra, đưa ra, trưng bày
+co lại, rút lại
 
 đóng, khép
 
-ca, hat
+ca, hát
 
-chim, lam chim
+chìm, làm chìm
 
 ngồi
 
 ngủ
 
-trượt, lưới, hôi qua
-quặng, ném
+trượt, lướt, lôi qua
+quăng, ném
 
 xẻ, bổ
 
 ngửi, ngửi thấy, có mùi
-gieo hat
+gieo hạt
 
 nói
 
 làm cho mau, đẩy mạnh
 
-đánh vàn
+đánh vần
 
 --- *Trang 417* ---
 
@@ -4981,77 +4940,77 @@ withstood
 ang
 written
 
-trỏi qua, liêu xời
-đổ, tràn; làm đổ, lam tròn
+trải qua, liều xới
+đổ, tràn; làm đổ, làm tràn
 kéo sợi
 
-khọc nhổ
+khạc nhổ
 
-chẻ, not
+chẻ, nứt
 
 làm hư, làm hỏng
 
-16a ra, fri ra, lon
+tỏa ra, trải ra, lan
 
-ndy len, nổi lên
+nhảy lên, nổi lên
 
-ding
+đứng
 
-lấy trom, lấy cáp
-dan, cắm, cai
+lấy trộm, lấy cắp
+dán, cắm, cài
 
-cham, đốt, chích
+châm, đốt, chích
 
 bốc mùi hôi
 
 rải, rắc
 
-di bước dai, sai bước
-đánh, dap
+đi bước dai, sai bước
+đánh, đập
 
 xêu day, buộc hàng day)
 cố gắng, đếu fran}
 
-thẻ
+thề
 
 quét
-sung, phồng lên
+sưng, phồng lên
 bơi
 
-đánh du
+đánh đu
 
-lấy, cồm, nắm
+lấy, cầm, nắm
 dạy
 
 xé
 
 nói, bảo
 
-ngh
+nghĩ
 
-ốn vào, dam, thọc
-giém len
+ấn vào, đâm, thọc
+giẫm lên
 
 chịu đựng, trải qua
 hiểu
 
-dam nhận, cam đoạn
-lạt đồ, đánh đồ
-đánh thức, thức day
-đội, mong, mặc
+đảm nhận, cam đoạn
+lật đổ, đánh đổ
+đánh thức, thức dậy
+đội, mang, mặc
 
 khóc
 
-làm ưới, dếp nước
+làm ướt, dếp nước
 
-được, chiến hắng
+được, chiến thắng
 
-cuốn lợi, lên dây (đồng hé)
-rút lui, rot khỏi
+cuốn lõi, lên dây (đồng hồ)
+rút lui, rút khỏi
 
-từ chối, ngăn cán
+từ chối, ngăn cản
 
-chống lợi, chịu dung
-xoón, vặn, vớt
+chống lợi, chịu dùng
+xoắn, vặn, vớt
 
 viết

@@ -13,10 +13,10 @@ gián tiếp.
 người nói.
 
 Ex: Bill said, ‘I don’t like this party.”
-(Bill nói, “Tôi khéng thích bữa tiệc nay.”)
+(Bill nói, “Tôi không thích bữa tiệc nay.”)
 - Lời nói trực tiếp được đặt trong dấu ngoặc kép và sau động từ chính có
 dấu phẩy (,) hoặc dấu hai chấm (;).
-- Đôi khi mệnh dé chính cũng có thể đặt sau lời nói trực tiếp.
+- Đôi khi mệnh đề chính cũng có thể đặt sau lời nói trực tiếp.
 Ex: ‘I don’t like this party,’ Bill said.
 
 2. Lời nói gián tiếp (indirect/ reported speech) là lời tường thuật lại ý của
@@ -35,11 +35,11 @@ và liên từ that có thể được bỏ.
 
 Ex: Tom said (that) he was feeling ill. (Tom nói anh ấy thấy không khỏe.)
 I told her (that) I didn’t have any money.
-(Tôi nói véi cô ấy là tôi khong có tiền.)
+(Tôi nói véi cô ấy là tôi không có tiền.)
 Lưu ý: tell + tân ngữ (object) thường được dùng hơn say to + tân ngữ.
 
 2. Đổi các đại từ nhân xưng, đại từ hoặc tính từ sở hữu sao cho tương ứng với
-chủ ngữ hoặc tân ngữ của mệnh dé chính.
+chủ ngữ hoặc tân ngữ của mệnh đề chính.
 a. Đại từ nhân xưng (personal pronouns)
 
 Chủ ngữ (subject) Tân ngữ (object)
@@ -49,7 +49,7 @@ I ¬ he, she me: — him, her
 we >5 they us Bà them
 
 you > I, we you > me, us
-b. Đại từ sở hữu (possessive pronouns)
+b. Đại từ sở hữu (possessivềpronouns)
 
 mine > his, hers
 
@@ -60,7 +60,7 @@ yours >5 mine, ours
 
 --- *Trang 319* ---
 
-c. Tính từ sở hữu (possessive adjectives)
+c. Tính từ sở hữu (possessivềadjectives)
 
 my >5 his, her
 our > their
@@ -71,87 +71,49 @@ J Luu ý: Khi tường thuật lại lời nói của chính mình, đại từ 
 Ex Isaid, ‘I like my new house.”
 
 — 1said (that) I liked my new house. (Tôi nói rằng tôi thích ngôi nhà mới của minh.)
-. Đổi thì của động từ thành thi quá khứ tương ứng.
+3. Đổi thì của động từ thành thì quá khứ tương ứng.
 
-8 o'clock.”
-
-Past perfect
-
-Daniel said, ‘My money had run out.”
-Future simple
-
-Judy said, TIL phone you."
-Future progressive
-
-He said, TIL be playing golf at three
-o'clock tomorrow.”
-
-Modal verbs
-
-+ Can
-
-She said, You can sit there’.
-
-+ May
-
-Claire said, T may go to Bali again.”
-
-+ Must
-
-He said, I must finish this report.”
-
-DIRECT SPEECH _ [INDIRECTSPEECH © li
-Present simple Past simple
-
-Tom said, ‘I never eat meat.” Tom said (that) he never ate meat.
-Present progressive Past progressive
-
-He said, Tm waiting for Ann.” He said he was waiting for Ann.
-Present perfect Past perfect
-
-She said, Tve seen that film.” She said she had seen that film.
-Present perfect progressive Past perfect progressive
-
-Andrew said, Tve been learning Andrew said he had been learning
-Chinese for 5 years.’ Chinese for 5 years.
-
-Past simple Past simple/ Past perfect
-
-They said, ‘We came by car.” They said they came/ had come by car.
-Past Progressive Past progressive/ Past perfect
-
-He said, T was sitting in the park at | progressive
-
-He said he was sitting had been
-sitting in the park at 8 o'clock.
-
-Past perfect
-
-Daniel said his money had run out.
-Future in the past
-
-Judy said she would phone me.
-
-Future progressive in the past
-
-He said he would be playing golf at three
-o'clock tomorrow.
-
-Modals in the past
-
-+ Could
-
-She said we could sit here.
-
-+ Might
-
-Claire said she might go to Bali again.
-
-+ Must/ Had to
-
-He said he must/ had to finish this report.
+| Direct Speech | Indirect Speech | Ví dụ |
+|---|---|---|
+| **Present simple** | **Past simple** | `Tom said, "I never eat meat."` → Tom said (that) he never ate meat. |
+| **Present progressive** | **Past progressive** | `He said, "I'm waiting for Ann."` → He said he was waiting for Ann. |
+| **Present perfect** | **Past perfect** | `She said, "I've seen that film."` → She said she had seen that film. |
+| **Present perfect progressive** | **Past perfect progressive** | `Andrew said, "I've been learning Chinese for 5 years."` → Andrew said he had been learning Chinese for 5 years. |
+| **Past simple** | **Past simple / Past perfect** | `They said, "We came by car."` → They said they came / had come by car. |
+| **Past progressive** | **Past progressive / Past perfect progressive** | `He said, "I was sitting in the park at 8 o'clock."` → He said he was sitting / had been sitting in the park at 8 o'clock. |
+| **Past perfect** | **Past perfect** | `Daniel said, "My money had run out."` → Daniel said his money had run out. |
+| **Future simple** (will) | **Future in the past** (would) | `Judy said, "I'll phone you."` → Judy said she would phone me. |
+| **Future progressive** (will be) | **Future progressive in the past** (would be) | `He said, "I'll be playing golf at three o'clock tomorrow."` → He said he would be playing golf at three o'clock tomorrow. |
 
 
+**Modal verbs:**
+
+| Direct Speech | Indirect Speech | Ví dụ |
+|---|---|---|
+| can | could | `She said, "You can sit there."` → She said we could sit there. |
+| may | might | `Claire said, "I may go to Bali again."` → Claire said she might go to Bali again. |
+| must | must / had to | `He said, "I must finish this report."` → He said he must / had to finish this report. |
+
+```mermaid
+flowchart TD
+    A["Câu trực tiếp (Direct Speech)"] --> B{"Xác định loại câu"}
+    B --> C["Câu trần thuật (Statement)"]
+    B --> D["Câu hỏi (Question)"]
+    B --> E["Câu mệnh lệnh (Command/Request)"]
+    C --> C1["Đổi: đại từ, thì, trạng từ"]
+    C1 --> C2["Dùng: say/tell + (that)"]
+    C2 --> C3["Câu gián tiếp"]
+    D --> D1{"Loại câu hỏi?"}
+    D1 --> D2["Yes-No question"]
+    D1 --> D3["Wh- question"]
+    D2 --> D4["Dùng: ask/wonder + if/whether"]
+    D4 --> C1
+    D3 --> D5["Dùng: ask/wonder + từ để hỏi"]
+    D5 --> C1
+    E --> E1["Dùng: ask/tell/order + O + to-inf"]
+    E1 --> E2["Phủ định: not + to-inf"]
+    E2 --> C3
+```
 
 --- *Trang 320* ---
 
@@ -159,19 +121,19 @@ He said he must/ had to finish this report.
 
 a.
 
-Động từ trong mệnh dé chính ở thi hiện tại đơn (say/ says), hiện tại tiếp
+Động từ trong mệnh đề chính ở thì hiện tại đơn (say/ says), hiện tại tiếp
 diễn (is/ are saying), hiện tại hoàn thành (have/ has said) hoặc tương lai
 đơn (will say).
 
-Ex: The farmer says/ is saying, ‘I hope it will rain tomorrow.’
+Ex: The farmer says/ is saying, 'I hope it will rain tomorrow.'
 
 — The farmer says/ is saying (that) he hopes it will rain tomorrow.
-(Người nông dân néi/ đang nói rằng ông ấy mong ngày mai trời sẽ mua.)
+(Người nông dân nói/ đang nói rằng ông ấy mong ngày mai trời sẽ mưa)
 She has said/ will say, ‘The questions are very difficult.”
 
 — She has said/ will say (that) the questions are very difficult.
 
-(Cô ấy da/ sẽ nói rằng các câu hỏi rất khó.)
+(Cô ấy đã/ sẽ nói rằng các câu hỏi rất khó.)
 
 . Lời nói trực tiếp diễn tả một sự thật hiển nhiên, một chân lý, một thói
 
@@ -184,10 +146,10 @@ The teacher said, ‘The moon moves around the earth.’
 (Thầy giáo nói rằng mặt trang xoay quanh trái đất.)
 Jim said, ‘I always drink coffee for breakfast.”
 — Jim said he always drinks coffee for breakfast.
-(Jim nói rằng anh ấy luôn uống ca phê trong bữa sáng.)
+(Jim nói rằng anh ấy luôn uống cà phê trong bữa sáng.)
 Paul said, ‘My new job is very interesting.’
 — Paul said (that) his new job is very interesting. [it’s still interesting]
-(Paul nói rằng công uiệc mới của anh ấy rất thú vi.)
+(Paul nói rằng công việc mới của anh ấy rất thú vị)
 'Ta cũng có thể đổi động từ sang quá khứ.
 Ex: Tom said (that) New York was bigger than London.
 'The teacher said (that) the moon moved around the earth.
@@ -206,16 +168,16 @@ hiện ngay) hoặc would have to (bổn phận tùy thuộc vào một hành đ
 đó ở tương lai khá xa).
 Ex: An said, “I must go for a job interview tomorrow.”
 — An said (that) he must/ had to go for a job interview the following day.
-(An nói ngày mai anh ấy phải di phỏng uấn xin uiệc.)
+(An nói ngày mai anh ấy phải đi phỏng uấn xin việc.)
 She said, “When you leave school you must find a job.”
 — She told me (that) when I left school I must/ would have to find a job.
-(Ba ấy nói uới tôi rằng khi hoc xong tôi phải tim uiệc làm.)
+(Ba ấy nói với tôi rằng khi học xong tôi phải tìm việc làm.)
 
 
 --- *Trang 321* ---
 
 d. Lời nói trực tiếp là câu điều kiện không có that (unreal conditionals) hoặc
-mệnh dé giả định theo sau wish, would rather, would sooner, it’s time.
+mệnh đề giả định theo sau wish, would rather, would sooner, it’s time.
 Ex: He said, “If I were you I wouldn’t wait.”
 
 — He said if he were me he wouldn't wait.
@@ -224,7 +186,7 @@ Ex: He said, “If I were you I wouldn’t wait.”
 “We wish we didn't have to take exams,” said the children.
 
 — The children said they wished they didn’t have to take exams.
-(Bọn trẻ nói chúng ước gi chúng khong phải làm bài hiểm tra.)
+(Bọn trẻ nói chúng ước gì chúng không phải làm bài hiểm tra.)
 He said, “It’s time we began planning our holidays.”
 
 — He said that it was time they began planning their holidays.
@@ -278,7 +240,7 @@ next week the week after; the following/ next week
 
 Ex: He said, ‘I saw her yesterday.’
 — He said he had seen her the previous day.
-(Anh ấy nói hôm trước anh ấy da gặp cô ta.)
+(Anh ấy nói hôm trước anh ấy đã gặp cô ta.)
 
 
 
@@ -288,7 +250,7 @@ Ex: He said, ‘I saw her yesterday.’
 
 — He promised that he would do it in two days’ time.
 
-(Anh ấy hứa hai ngày sau anh ấy sẽ lam uiệc đó.)
+(Anh ấy hứa hai ngày sau anh ấy sẽ lam việc đó.)
 Daniel said, ‘I got my driving licence last Tuesday.”
 
 — Daniel said he'd got his driving licence the Tuesday before.
@@ -309,11 +271,11 @@ LE Et
 
 es
 
-trang từ chi thời gian trong lời nói gián tiếp vẫn giữ nguyên.
+trạng từ chỉ thời gian trong lời nói gián tiếp vẫn giữ nguyên.
 
 Jane said, ‘I'll go to Bali by the end of this month.’
 
-(Jane nói, “Cuối tháng này tôi sẽ di Bali.”)
+(Jane nói, “Cuối tháng này tôi sẽ đi Bali.”)
 
 Câu nói của Jane được thuật lại trước cuối tháng này.
 
@@ -326,13 +288,13 @@ Jane said she would go to Bali by the end of that month.
 Nếu dia điểm được dé cập trong lời nói trực tiếp cùng dia điểm với người tường thuật,
 trạng từ chỉ nơi chốn trong lời nói gián tiếp không đổi.
 
-The old man said, ‘I've lived in this village for over 80 years.”
+The old man said, ‘I'velived in this village for over 80 years.”
 
 Thông thường chúng ta chuyển sang gián tiếp
 
 The old man said he had lived in that village for over 80 years.
 
-(Ong lão nói ông da sống trong ngôi làng đó hơn 80 năm.)
+(Ong lão nói ông đã sống trong ngôi làng đó hơn 80 năm.)
 
 Nhưng nếu người tường thuật đang ở trong ngôi làng đó thì trạng từ chỉ nơi chốn không đổi.
 The old man said he had lived in this village for over 80 years.
@@ -346,7 +308,7 @@ Khi đổi câu hỏi Yes-No từ trực tiếp sang gián tiếp, ta cần lưu
 - Dùng động từ giới thiệu ask, inquire, wonder, want to know. Ask có thể
 được theo sau bởi tân ngữ trực tiếp (He asked me ..), nhưng inquire, won-
 der, want to know thì không có tân ngữ theo sau (NOT He-wendered-me—)
-— Dùng if hoặc whether ngay sau động từ giới thiệu của mệnh dé chính.
+— Dùng if hoặc whether ngay sau động từ giới thiệu của mệnh đề chính.
 
 If/
 
@@ -383,7 +345,7 @@ Ex: He said, ‘What time does the film begin?
 (Anh ấy muốn biết mấy giờ phim bắt đều.)
 ‘What will happen if she can not find her passport? he wondered.
 — He wondered what would happen if she could not find her passport.
-(Anh ấy tự nhủ khong biết chuyện gi sẽ xảy ra nếu cô ấy khong tìm được
+(Anh ấy tự nhủ không biết chuyện gì sẽ xảy ra nếu cô ấy không tìm được
 hộ chiếu.)
 He said, ‘Mary, when is the next train?
 — He asked Mary when the next train was. `
@@ -395,7 +357,7 @@ Ex Whos the best player?
 — She asked me who was the best player./ She asked me who the best player was.
 Which is my seat?
 —> She wondered which was her seat./ She wondered which her seat was.
-~ Dong từ giới thiệu trong mệnh để chính ở thì hiện tại đơn, hiện tại tiếp diễn, hiện tại
+~ Dong từ giới thiệu trong mệnh đề chính ở thì hiện tại đơn, hiện tại tiếp diễn, hiện tại
 hoàn thành và tương lai đơn — thì của động từ trong câu gián tiếp không đổi.
 Ex ‘Has the taxi arrived yet?' — She is wondering if/ whether the taxi has arrived yet.
 (C6 ấy tự nhủ không biết taxi đã đến chưa.)
@@ -438,20 +400,20 @@ Ex: ‘Stay in bed for a few days,’ the doctor said to me.
 — He asked his neighbors to turn the music down.
 (Anh ấy yêu cầu những người hang xóm uặn nhỏ nhac.)
 
-> Cấu trúc ask + to-infinitive hoặc ask for cũng có thể được dùng.
+> Cấu trúc ask + to-infinitivehoặc ask for cũng có thể được dùng.
 Ex: ‘Can I see your driving licence, please?” the policeman said.
 — The policeman asked to see my driving licence.
 (Viên cảnh sát đòi xem bằng lái của tôi.)
-“Can I have some brochures, please? Judy said.
+“Can I havesome brochures, please? Judy said.
 Judy asked (the travel agent) for some brochures.
 (Judy hỏi xin [nhân uiên du lịch] một vai tập quảng cdo.)
 
 > Câu mệnh lệnh hoặc câu yêu cầu cũng có thể được tường thuật lại bằng
-một mệnh để. J
+một mệnh đề. J
 Ex: The doctor told me (that) I had to stay in bed for a few days.
 He asked his neighbors if they would mind turning the music down.
 
-Sk Luu ý: Ngoài ask va tell, các động từ order, command, request, beg, implore cũng có thé
+Sk Luu ý: Ngoài ask và tell, các động từ order, command, request, beg, implore cũng có thé
 được dùng.
 Ex ‘Please, please don't take any risks, said his wife.
 — His wife begged/ implored him not to take any risk.
@@ -470,10 +432,10 @@ Ex: They said, ‘We'll pay for the meal.’
 — They offered to pay for the meal. (Ho dé nghị trả tiền bữa ăn.)
 [= They said that they would pay for the meal.]
 John said, ‘T'll write for you."
-— John promised to write for me. (John hứa sẽ viét thư cho tôi.)
+— John promised to write for me. (John hứa sẽ viết thư cho tôi.)
 [= John promised that he would write for me.]
 Tom said, ‘You should/ ought to take a taxi, Mary.’
-— Tim advised Mary to take a taxi. (Tim khuyén Mary nén di taxi.)
+— Tim advised Mary to take a taxi. (Tim khuyén Mary nén đi taxi.)
 [= Tim told Mary that she should/ ought to take a taxi.]
 ‘Please sit down,’ she said.
 — She invited you to sit down. (Ba dy mời anh ngồi.)
@@ -482,7 +444,7 @@ Tom said, ‘You should/ ought to take a taxi, Mary.’
 (Ba Pitt nhdc chéng goi rugu.)
 ‘Go on, apply for the job,’ said Jack.
 — Jack urged/ encouraged me to apply for the job.
-(Jack thúc giuc/ khuyến khich tôi nộp đơn xin uiệc.)
+(Jack thúc giuc/ khuyến khich tôi nộp đơn xin việc.)
 
 * Một số động từ giới thiệu được theo sau trực tiếp bởi to-infinitive: offer,
 agree, demand, guarantee, promise, propose, swear, threaten, volunteer.
@@ -515,31 +477,31 @@ before the exam.
 number ...]
 
 > Mệnh dé that (that-clause) có thể được dùng sau admit, advise, agree,
-insist, promise, remind, suggest va warn.
+insist, promise, remind, suggest và warn.
 
 Ex: Nick promised (that) he would finish the work by the end of this
-week. (Nick hứa la anh ấy sẽ hoàn thành công uiệc uào cuối tuần.)
+week. (Nick hứa la anh ấy sẽ hoàn thành công việc vào cuối tuần.)
 She warned (that) Nick's dog is very fierce.
 
 (Cô ấy cảnh bdo rằng con chó của Nick rốt dữ.)
 Trevor admitted (that) he had forgotten the shopping.
 (Trevor thú nhận rằng anh ấy đã quên đi chợ.)
 
-— Chúng ta thường dùng mệnh dé that với should để thuật lại lời khuyên,
+— Chúng ta thường dùng mệnh đề that với should để thuật lại lời khuyên,
 lời yêu cầu, lời gợi ý, v.v. về những việc đáng làm hoặc cần được thực hiện.
 Ex: ‘Why don’t you begin to look for another job, Paul?’
 
 — Jane suggests that Paul should begin to look for another job.
 
-(Jane gợi ý Paul nên tìm một cong uiệc khác.) [OR ... that Paul begin/
+(Jane gợi ý Paul nên tìm một cong việc khác.) [OR ... that Paul begin/
 begins to look for...] :
 
-— Không dùng mệnh dé that (dùng mệnh dé to-infinitive) sau các động từ
+— Không dùng mệnh đề that (dùng mệnh đề to-infinitive) sau các động từ
 intend, long, offer, plan, refuse, volunteer, want.
 
-Ex: Tll drive you to the airport,’ he said to me.
+Ex: Tll driveyou to the airport,’ he said to me.
 
-He volunteered to drive me to the airport. (Anh dy tinh nguyén dua
+He volunteered to driveme to the airport. (Anh dy tinh nguyén dua
 tôi ra phi trường.) [NOT He-volanteered that -he-would drive--.]
 
 Lưu ý: .
@@ -551,7 +513,7 @@ Ex ‘Could you pass me the salt, please?’
 —› He asked/ told me to pass him the salt. (Anh ấy bảo tôi chuyển cho anh ấy lọ muối.)
 -  Cdu tric Would you like ...? được xem như lời mời.
 x. ‘Would you like to go to the movies?"
-— He invited me to go to the movies. (Anh ấy mời tôi di xem phim.)
+— He invited me to go to the movies. (Anh ấy mời tôi đi xem phim.)
 —  Céu trúc Shall I/ we ..? và Can | ..? được xem như lời đề nghị.
 Ex. ‘Shall | carry your bags?' the porter said.
 —> The porter offered to carry my bags. (Nguoi khuân vác dé nghị xách túi cho tôi.)
@@ -572,7 +534,7 @@ Ex. The guide said, ‘Let's stop for a rest’
 V. Câu cảm than và câu trả lời yes/ no trong lời nói gián tiếp (Exclamations
 and yes/ no answers in indirect speeches)
 1. Cau cam than (Exclamations) 4
-Câu cảm thán bắt đầu bằng What (a/ an) ..! va How ..! thường được thuật
+Câu cảm thán bắt đầu bằng What (a/ an) ..! và How ..! thường được thuật
 lại bằng động từ excljaim/say that.
 Ex: ‘What a lovely garden!” (Khu uườn đẹp quá)
 — She exclaimed/ said that it was a lovely garden.
@@ -582,8 +544,8 @@ Or: She exclaimed/ said that the garden was lovely.
 — He exclaimed/ said that it was hot. (Anh ta kêu rằng trời nóng quá.)
 *Một số trường hợp đáng lưu ý
 
-‘Good!’ he exclaimed — He gave an exclamation with pleasure.
-‘Ugh! she exclaimed — She gave an exclamation with disgust.
+‘Good!’ he exclaimed — He gavean exclamation with pleasure.
+‘Ugh! she exclaimed — She gavean exclamation with disgust.
 He said, ‘Thank you!” — He thanked me.
 
 He said, ‘Welcome! — He welcomed me.
@@ -600,10 +562,10 @@ Câu trả lời yes và no được diễn đạt trong câu gián tiếp bằn
 Ex: Daniel said, ‘Is there a café nearby’ and Tom said ‘No’.
 — Daniel asked (Tom) if there was a café nearby and Tom said there
 wasn’t.
-(Daniel hỏi có quán ca phê nào gần đây không va Tom nói không có.)
+(Daniel hỏi có quán cà phê nào gần đây không và Tom nói không có.)
 He said, “Can you swim? and I said ‘Yes’.
 — He asked (me) if I could swim and I said I could.
-(Anh ấy hỏi tôi có biết bơi không va tôi nói tôi biết.)
+(Anh ấy hỏi tôi có biết bơi không và tôi nói tôi biết.)
 
 VI. Các loại câu hỗn hợp trong lời nói gián tiếp (Mixed types in indirect
 speeches)
@@ -614,14 +576,14 @@ phần và dùng các động từ giới thiệu thích hợp riêng cho từng
 Ex: T have left my watch at home. What time is it now? he asked.
 
 — He said (that) he had left his watch at home and asked (me) what
-time it was then. (Anh dy nói anh ấy đã để quên đồng hồ ở nha va
+time it was then. (Anh dy nói anh ấy đã để quên đồng hồ ở nhà và
 hỏi lúc đó là mấy giờ.)
 
 ‘I'm going shopping. Can I get you anything? she said.
 
 — She said she was going shopping and asked if she could get me
 
-anything. (Cô ấy nói cô ấy sẽ di mua sắm va hỏi tôi có cần mua gì không.)
+anything. (Cô ấy nói cô ấy sẽ đi mua sắm và hỏi tôi có cần mua gì không.)
 
 
 --- *Trang 328* ---
@@ -629,23 +591,23 @@ anything. (Cô ấy nói cô ấy sẽ di mua sắm va hỏi tôi có cần mua 
 ‘Someone's coming,’ he said. ‘Get behind the screen’
 
 — He said that someone was coming and told me to get behind the screen.
-(Anh ấy nói có người dang đến va bảo tôi trốn phía sau tấm man.)
+(Anh ấy nói có người dang đến và bảo tôi trốn phía sau tấm man.)
 ‘Let’s shop on Friday. The say will be very crowded on Sat-
 urday,’ she said.
 
 — She suggested shopping on Friday and said that the supermarket
-would be very crowded on Saturday. (Cô dy gợi ý di mua sắm vao thứ
-Sáu va nói rằng thứ Bảy siêu thị sẽ rất đông.)
+would be very crowded on Saturday. (Cô dy gợi ý đi mua sắm vào thứ
+Sáu và nói rằng thứ Bảy siêu thị sẽ rất đông.)
 
 - Đôi khi động từ giới thiệu thứ hai có thể là một phân từ.
 Ex: ‘Please, please don’t drink too much! Remember that you'll have to
-drive home’ she said.
+drivehome’ she said.
 
 —> She begged him not to drink too much, reminding/ and reminded
-him that he would have to drive home. (Cô dy van xin anh ta đừng
-uống quá nhiều va nhắc rằng anh ta còn phải lái xe vé nhà.)
+him that he would have to drivehome. (Cô dy van xin anh ta đừng
+uống quá nhiều và nhắc rằng anh ta còn phải lái xe vé nhà.)
 
-- Khi mệnh để sau là câu giải thích cho mệnh đề trước, ta có thể dùng as
+- Khi mệnh đề sau là câu giải thích cho mệnh đề trước, ta có thể dùng as
 thay cho động từ giới thiệu thứ hai.
 Ex: He said, ‘You'd better wear a coat. It’s very cold out.’
 
@@ -658,14 +620,14 @@ Saturday.’
 — She suggested shopping on Friday as the supermarket would be very
 crowded on Saturday.
 
-(Cô ấy gợi ý di mua sắm vao thứ Sáu vi thứ Bảy siêu thị sẽ rất đông.)
+(Cô ấy gợi ý đi mua sắm vào thứ Sáu vi thứ Bảy siêu thị sẽ rất đông.)
 
 » EXERCISES
 
 I. Report the sentences.
 
 1. Mark: I'm taking my driving tomorrow.
-Mark sai as taking his di test the next
+Mark sai as taking his đi test the next
 
 2. Jane to Tom: You play very well.
 
@@ -749,7 +711,7 @@ Do they like me?
 
 Where do you live?
 
-Have you got a driving licence?
+Havềyou got a driving licence?
 
 How does she know my name?
 
@@ -802,7 +764,7 @@ Please don’t tell anybody what happened. me a hand, Tom?
 2. Sarah was driving too fast, so I asked
 3. Sue was pessimistic about the situation, so I told
 4. The foremen walked towards the children and warned
-5. I couldnt move the piano alone, so I asked
+5. I couldnt movethe piano alone, so I asked
 6.
 7.
 8
@@ -815,14 +777,14 @@ Jim knocked his neighbors’ door and asked
 
 . It was time for dinner, so I invited
 10. I didn’t want to delay Ann, so I told
-11. John was very much in love with Mary, so he asked
+11. John was very much in lovewith Mary, so he asked
 12. They apologized for the crash and offered
 13. We were going to take part in a poetry contest, so Susan suggested
 14. Ann wanted to keep a secret, so she asked
 15. The doctor made out a prescription for me, then he advised
 
 V. Report the sentences. They were all spoken last week. Use the verbs in ke,
-1. Laura: Can you move this table, please? (tell)
+1. Laura: Can you movethis table, please? (tell)
 
 2. The police to us: The road were dangerous. (warn)
 
@@ -841,7 +803,7 @@ V. Report the sentences. They were all spoken last week. Use the verbs in ke,
 
 1
 
-. Bernard to his wife: Have you seen my car keys? (wonder)
+. Bernard to his wife: Havềyou seen my car keys? (wonder)
 . The policeman to Christ: Stop the car. (order)
 . Tessa: It was me. I ate all the cake yesterday. (admit)
 . Adrian: I'm sorry I was rude. (apologize)
@@ -854,7 +816,7 @@ V. Report the sentences. They were all spoken last week. Use the verbs in ke,
 16. The boss to his secretary: Would you mind not playing computer games in the office? (ask)
 17. Peter: I really must leave. (insist)
 18. Martin to Nancy: Did someone ring you an hour ago? (ask)
-19. Jessica: We were thinking of selling the house but we have decided not to. (say)
+19. Jessica: We were thinking of selling the house but we havedecided not to. (say)
 20. Jack: I never eat vegetarian food. (explain)
 
 
@@ -868,29 +830,29 @@ Change the verbs to the suitable form as appropriate.
 
 Joe asked me, ‘Can we still get tickets to the game?’
 
-1 said, Tve already bought them.’
+1 said, Tvềalready bought them.’
 
 When Joe asked me if we tickets to the game, I told him that
 them.
 
 . Mrs White said, ‘Janice, you have to clean up your room and empty the dishwasher
 
-before you leave for the game.”
+before you leavefor the game.”
 
 Janice said, ‘Okay, Mom. I will.’
 
 Mrs White told Janice that her room and empty the dishwasher
 before she for the game. Janice promised her mom that
 
-. Joanne asked me, ‘ Do you know Dave Clark?
+. Joanne asked me, ‘ Do you know DaveClark?
 
-Yes,’ I replied. Tve known him for many years. Why do you want to know?
+Yes,’ I replied. Tvềknown him for many years. Why do you want to know?
 Joanne askedme DaveClark.I replied that I him for
 many years and asked her to know.
 
 . I asked Mary, Why do you still smoke?’
 
-Mary replied, Tve tried to quit many times, but I just don’t seem to be able to.”
+Mary replied, Tvềtried to quit many times, but I just don’t seem to be able to.”
 ‘When I asked Mary she replied that she many times,
 but she just to be able to.
 
@@ -927,7 +889,7 @@ She said
 
 ‘Chicago,’ I said.
 
-‘That's nice. I'm from Mapleton. It’s a small town in northern Michigan. Have you
+‘That's nice. I'm from Mapleton. It’s a small town in northern Michigan. Havềyou
 heard of it?
 
 ‘Oh yes, I have,’ said. Michigan is a beautifid state. I've been there on vacation many times.’
@@ -937,7 +899,7 @@ heard of it?
 --- *Trang 332* ---
 
 ‘No. I went far away from home this year. I went to India,’ I replied.
-‘Oh, that’s nice. Is it a long drive from Chicago to India? she asked me. My mouth fell
+‘Oh, that’s nice. Is it a long drivefrom Chicago to India? she asked me. My mouth fell
 open. I didn’t know how to respond. Some people certainly need to study geography.
 
 The passenger sitting next to me on the plane me from. I her
@@ -947,7 +909,7 @@ went on to say that I thought Michigan a beautiful state and explained that I
 
 there on vacation many times.She_ me in Michigan on
 vacation this year. I replied that I and  herthatI far away, to
-India. Then she asked me along drive from Chicago to India! My mouth fell
+India. Then she asked me along drivefrom Chicago to India! My mouth fell
 
 open. I didn’t know how to respond. Some people certainly need to study geography.
 
@@ -975,11 +937,11 @@ Gary:.! one day, but
 
 10.1 asked Celia Young why she had written another romantic novel. She said that she
 found romantic fiction easy to write, but that her next novel wouldn’t be a romance.
-She was hoping to write something different, possibly a detective story. I told her that
+She was hoping to write something different, possibly a detectivestory. I told her that
 Iwas interested in the character of Felix, and I asked if he was anyone she knew from
 real life. Celia laughed and replied that she was glad that she didn’t have a Felix in
 her life, and that she had been happily married for over fifteen years to Richard
-Marsh, the politician. I said that she had now written five novels, and I asked when
+Marsh, the politician. I said that she had now written fivenovels, and I asked when
 she had started writing. She answered that she had written stories and poems all her
 life and that she would continue to write even when she was an old lady. I thanked her
 for talking to me and said that I hoped that Hot Lips would be successful.
@@ -987,7 +949,7 @@ for talking to me and said that I hoped that Hot Lips would be successful.
 Interviewer: another romantic novel, Celia?
 
 Celia: Well, to write, but my next novel KHI
-something different, possibly a detective story.
+something different, possibly a detectivestory.
 
 Interviewe: the character of Felix. _____ from real life?
 
@@ -995,7 +957,7 @@ Celia: No .. erm .. I'm glad I in my life. for over
 
 fifteen years ... erm ... to Richard Marsh, the politician. `
 
-Interviewer: You five novels. When ?
+Interviewer: You fivenovels. When ?
 
 Celia: Well, all my life and I an old lady!
 

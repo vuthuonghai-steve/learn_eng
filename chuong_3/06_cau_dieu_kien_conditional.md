@@ -4,376 +4,383 @@
 
 --- *Trang 257* ---
 
-s Điều không có thật ở quá khứ
+## Cấu Trúc As If / As Though — Điều Không Có Thật Ở Quá Khứ
 
-S + V + asif/asthough + $ + Vipast perfect)
+```
+S + V + as if/as though + S + V (past perfect)
+```
 
-Ex: Tom looked tired as if he had worked very hard.
-(Trông Tom có vé mệt mỏi như thể anh ta da làm uiệc rất uất vd.)
-— but he didn’t work hard.
-He talked as if he had seen the accident yesterday.
-(Anh ta nói như thể hôm qua anh ta da chứng hiến tai nạn dé uậy.)
-— but he didn’t see it.
+**Ví dụ:**
 
-Lưu ý:
+`Tom looked tired as if he had worked very hard.`
+(Trông Tom có vẻ mệt mỏi như thể anh ta đã làm việc rất vất vả.)
+— but he didn't work hard.
 
-= Were có thể được dùng thay thế was (với các chủ tử /, he, she, if) trong mệnh đề giả định.
+`He talked as if he had seen the accident yesterday.`
+(Anh ta nói như thể hôm qua anh ta đã chứng kiến tai nạn đó vậy.)
+— but he didn't see it.
 
-Ex: Gary's only 40. Why do you talk about him as if he were/ was an old man?
+**Lưu ý:**
+
+- **Were** có thể được dùng thay thế **was** (với các chủ từ *I, he, she, it*) trong mệnh đề giả định.
+
+`Ex: Gary's only 40. Why do you talk about him as if he were/ was an old man?`
 (Gary mới 40. Sao anh lại nói về anh ta như thể anh ta là một ông lão vậy?)
 
-— Dong từ đứng trước as if/ as though có thể ở thì hiện tại hoặc quá khứ mà không có sự
-thay đổi thì trong mệnh dé giả định.
+- Động từ đứng trước **as if / as though** có thể ở thì hiện tại hoặc quá khứ mà không có sự thay đổi thì trong mệnh đề giả định.
 
-Ex. He talks/ talked as if he knew everything. (Anh ta nói như thể anh ta biết mọi chuyện.)
-He looks/ looked as though he hadn't had a decent meal for a month.
+`Ex: He talks/ talked as if he knew everything.` (Anh ta nói như thể anh ta biết mọi chuyện.)
 
-(Tréng ông ta như thể cả tháng nay chẳng có bữa ăn tươm tất nào.)
+`He looks/ looked as though he hadn't had a decent meal for a month.`
+(Trông ông ta như thể cả tháng nay chẳng có bữa ăn tươm tất nào.)
 
-— Trong mệnh dé so sánh (mệnh để chi cách thức và mệnh để chính có cùng chủ ngữ),
-chúng ta có thể dùng as i/ as though theo sau bởi một phân từ (present/ past participle)
-hoặc động từ nguyên mẫu có ío (to-infinitive).
+- Trong mệnh đề so sánh (mệnh đề chỉ cách thức và mệnh đề chính có cùng chủ ngữ), chúng ta có thể dùng **as if / as though** theo sau bởi một phân từ (present / past participle) hoặc động từ nguyên mẫu có *to* (to-infinitive).
 
-Ex. He ran off to the house as if escaping.
+`Ex: He ran off to the house as if escaping.`
 
-After scoring, Fowler fell to the floor as if hit by a bullet.
-As if to remind him, the church clock struck eleven.
+`After scoring, Fowler fell to the floor as if hit by a bullet.`
 
-2. IT’S TIME, IT’S HIGH TIME
-It’s time/ It’s high time có thể được theo sau bởi:
+`As if to remind him, the church clock struck eleven.`
 
-a. Động từ nguyên mẫu có fo (to-infinitive)
+## 2. It's Time, It's High Time
 
-It's ime/ I's high time + (for + object) + to-infinitive
+**It's time / It's high time** có thể được theo sau bởi:
 
-Ex: It's time to buy a new car. (Đã đến lúc phải mua xe mới rồi.)
-It’s high time for the children to go to bed.
-(Pa đến giờ bọn trẻ đi ngủ rồi.)
+### a. Động từ nguyên mẫu có *to* (to-infinitive)
 
-b. Mệnh dé (động từ chia ở quá khứ nhưng mang nghĩa hiện tại)
+```
+It's time / It's high time + (for + object) + to-infinitive
+```
 
-IPstime/ I's hightime + S + V(past simple)
+`Ex: It's time to buy a new car.` (Đã đến lúc phải mua xe mới rồi.)
 
-Ex: Ten o'clock - It’s time we went home.
-(10 giờ rồi - Đã đến lúc chúng ta phải vé nha.)
-It's time the children were in bed. (Đã đến giờ bọn trẻ đi ngủ.)
-It’s high time you got a job. (Đã đến lúc anh phải tìm một công uiệc.)
-It’s about time I was leaving. (Đã đến lúc tôi phải đi rồi.)
+`It's high time for the children to go to bed.`
+(Đã đến giờ bọn trẻ đi ngủ rồi.)
 
-8. WOULD RATHER
-a. Would rather (thich...hon) được dùng để diễn đạt những gì mà một
-người nào đó muốn thực hiện trong một tình huống cụ thể (không được
-dùng trong trường hợp tổng quát). Would rather (do sth) = would
-prefer (to do sth).
+### b. Mệnh đề (động từ chia ở quá khứ nhưng mang nghĩa hiện tại)
 
+```
+It's time / It's high time + S + V (past simple)
+```
+
+`Ex: Ten o'clock — It's time we went home.`
+(10 giờ rồi — Đã đến lúc chúng ta phải về nhà.)
+
+`It's time the children were in bed.` (Đã đến giờ bọn trẻ đi ngủ.)
+
+`It's high time you got a job.` (Đã đến lúc anh phải tìm một công việc.)
+
+`It's about time I was leaving.` (Đã đến lúc tôi phải đi rồi.)
+
+## 3. Would Rather
+
+### a. Would Rather (thích... hơn)
+
+**Would rather** được dùng để diễn đạt những gì mà một người nào đó muốn thực hiện trong một tình huống cụ thể (không được dùng trong trường hợp tổng quát). **Would rather (do sth)** = **would prefer (to do sth)**.
+
+---
 
 --- *Trang 258* ---
 
-* Ở hiện tại hoặc tương lai
-S + wouldrather (+noh + Vbareinf (+ than+ Vbare-inf)
+#### Ở hiện tại hoặc tương lai
 
-Ex: | would rather stay at home tonight. (Tối nay tôi thích ở nha hon.)
-Would you rather have tea or coffee?
-(Ban thich dung tra hay ca phé hon?)
-I'm tired. I'd rather not go out this evening.
-(Tôi mệt. Chiều nay tôi không thích di chơi.)
-[NOT 1-wouldn't-rather-go...]
-John would rather go for a swim than play tennis.
-(John thích đi bơi hơn chơi quần vot.)
-We'd rather walk than take a bus.
-(Chúng tôi thích đi bộ hơn là di xe buýt.)
+```
+S + would rather (+ not) + V(bare-inf) (+ than + V(bare-inf))
+```
 
-s Ở quá khứ
+`Ex: I would rather stay at home tonight.` (Tối nay tôi thích ở nhà hơn.)
 
-S + wouldrgther(+no) + have + V
+`Would you rather have tea or coffee?`
+(Bạn thích dùng trà hay cà phê hơn?)
 
-Ex: We went by sea but I'd rather have gone by air.
-(Chúng tôi đã đi bằng tau thủy nhưng tôi thích đi bằng máy bay hơn.)
-¬ I wanted to go by air but I didn't get my wish.
-Tommy would rather have gone skiing than fishing last weekend.
-(Kỳ nghỉ cuối tuần trước, Tommy đã thích di trượt tuyết hơn là đi câu.)
-¬ but he didn’t get his wish
-b. Would rather (mong; muốn) con được dùng để diễn đạt nghĩa một người
-muốn người khác làm điều gì hoặc muốn một điều gì đó xảy ra.
-+ Ở hiện tại hoặc tương lai.
+`I'm tired. I'd rather not go out this evening.`
+(Tôi mệt. Chiều nay tôi không thích đi chơi.)
+[NOT I-wouldn't-rather-go...]
 
-Ex: I'd rather you went home now. (Tôi muốn anh vé nhà ngay bây giờ.)
+`John would rather go for a swim than play tennis.`
+(John thích đi bơi hơn chơi quần vợt.)
 
-[NOT Pd rather you go home new].
-Shall I open a window? ~ I'd rather you didn’t.
-(Tôi mở cửa sổ nhé? ~T6i muốn ban đừng mở.)
-'Tomorrow's difficult. I'd rather you came next weekend.
-(Ngày mai thi khó đấy. Tôi muốn bạn đến uào cuối tuần tới.)
-I feel embarrased about what happened and would rather the event
-was/ were forgotten. (Tôi thấy bối rối uề những chuyện đã xảy ra uà
-mong rằng sự uiệc nay sẽ được quên đi.)
+`We'd rather walk than take a bus.`
+(Chúng tôi thích đi bộ hơn là đi xe buýt.)
 
-^ Lưu ý: Were có thể được dùng thay thế was (với các chủ tử /, he, she, if)
+#### Ở quá khứ
 
-* Ở quá khứ
-S + wouldrather (tha) + § + V(past perfect)
+```
+S + would rather (+ not) + have + V(past participle)
+```
 
-Ex: Roberto would rather we hadn't left yesterday.
-(Roberto muốn hôm qua chúng tôi đã không ra đi.) — but we left
-yesterday
-I would rather you had met my future wife.
-(Tôi muốn la bạn đã gặp uợ sắp cưới của tôi.) — but you didn’t meet.
+`Ex: We went by sea but I'd rather have gone by air.`
+(Chúng tôi đã đi bằng tàu thủy nhưng tôi thích đi bằng máy bay hơn.)
+— I wanted to go by air but I didn't get my wish.
 
+`Tommy would rather have gone skiing than fishing last weekend.`
+(Kỳ nghỉ cuối tuần trước, Tommy đã thích đi trượt tuyết hơn là đi câu.)
+— but he didn't get his wish.
+
+### b. Would Rather (mong, muốn)
+
+**Would rather** còn được dùng để diễn đạt nghĩa một người muốn người khác làm điều gì hoặc muốn một điều gì đó xảy ra.
+
+#### Ở hiện tại hoặc tương lai
+
+```
+S + would rather + S + V (past simple)
+```
+
+`Ex: I'd rather you went home now.` (Tôi muốn anh về nhà ngay bây giờ.)
+[NOT I'd rather you go home now.]
+
+`Shall I open a window? ~ I'd rather you didn't.`
+(Tôi mở cửa sổ nhé? ~ Tôi muốn bạn đừng mở.)
+
+`Tomorrow's difficult. I'd rather you came next weekend.`
+(Ngày mai thì khó đấy. Tôi muốn bạn đến vào cuối tuần tới.)
+
+`I feel embarrassed about what happened and would rather the event was/ were forgotten.`
+(Tôi thấy bối rối về những chuyện đã xảy ra và mong rằng sự việc này sẽ được quên đi.)
+
+**Lưu ý:** **Were** có thể được dùng thay thế **was** (với các chủ từ *I, he, she, it*).
+
+#### Ở quá khứ
+
+```
+S + would rather (that) + S + V (past perfect)
+```
+
+`Ex: Roberto would rather we hadn't left yesterday.`
+(Roberto muốn hôm qua chúng tôi đã không ra đi.) — but we left yesterday
+
+`I would rather you had met my future wife.`
+(Tôi muốn là bạn đã gặp vợ sắp cưới của tôi.) — but you didn't meet.
+
+---
 
 --- *Trang 259* ---
 
-Tuy nhiên, trong trường hợp này wish thường được dùng hon would rather.
-Ex: I wish you had met my future wife.
+Tuy nhiên, trong trường hợp này **wish** thường được dùng hơn **would rather**.
 
-» EXERCISE :
-I. Use the sentences in the box to make sentences with as if.
+`Ex: I wish you had met my future wife.`
 
+## Bài Tập (Exercise)
+
+### I. Use the sentences in the box to make sentences with as if.
+
+```
 he hadn't eaten for a week
-
 it has just been cut
-
-it never gets fed I'm going to be sick
-she was enjoying it she didn’t want fo come
-he’s been up all night he meant what he was saying
-
+it never gets fed
+I'm going to be sick
+she was enjoying it
+she didn't want to come
+he's been up all night
+he meant what he was saying
 they're going to get married
-Carol had a bored expression on her face during the concert. She didn’t look
-
 someone has been smoking here
+```
 
-I don’t think he was joking. He looked
-The grass is very short. It looks
-That poor dog looks
-I've just eaten too many chocolates. Now I'm feeling ill.
-I feel
-I phoned Emma and invited her to the party but she wasn’t very enthusiastic about
-it. She sounded
-7. Tom looks really awful. He looks
-8. Peter was extremely hungry and ate his dinner very quickly.
+`Carol had a bored expression on her face during the concert. She didn't look as if she was enjoying it.`
 
-He ate
-9. From what Emma said, it sounds
-10. Do you smell something burning? It smells ũ
+`I don't think he was joking. He looked as if he meant what he was saying.`
 
-Il. Complete the sentences with as if/ as though.
+`The grass is very short. It looks as if it has just been cut.`
 
-mm
+`That poor dog looks as if it never gets fed.`
 
+`I've just eaten too many chocolates. Now I'm feeling ill. I feel as if I'm going to be sick.`
 
-1. Tim isn’t the boss but he acts the boss.
+`I phoned Emma and invited her to the party but she wasn't very enthusiastic about it. She sounded as if she didn't want to come.`
 
-2. The hole in my shirt wasn’t made by a bullet, but it looks by a bullet.
+`Tom looks really awful. He looks as if he's been up all night.`
 
-3. Barbara has met me many times before, but she looked at me_ never
+`Peter was extremely hungry and ate his dinner very quickly. He ate as if he hadn't eaten for a week.`
 
-me before.
+`From what Emma said, it sounds as if they're going to get married.`
 
-4. I'm 20 years old, so please don't talk to me a child.
+`Do you smell something burning? It smells as if someone has been smoking here.`
 
-5. She heard everything I said, but she went right on talking a word I'd said.
+### II. Complete the sentences with as if / as though.
 
-6. Mark has many friends, but he looks so depressed a friend in the world.
+1. `Tim isn't the boss but he acts as if he were the boss.`
 
-7. It was a long time ago that we first met but I remember it yesterday.
+2. `The hole in my shirt wasn't made by a bullet, but it looks as if it were made by a bullet.`
 
-8. Steve has only met Nicole once but he talks about her aclose friend.
+3. `Barbara has met me many times before, but she looked at me as if she had never seen me before.`
 
-9. When Joanna came in from the rainstorm, she looked a shower with
-her clothes on.
+4. `I'm 20 years old, so please don't talk to me as if I were a child.`
 
-10. She will be here, but she spoke here.
+5. `She heard everything I said, but she went right on talking as if she hadn't heard a word I'd said.`
 
-III. Read the situation and write sentences with /’s time + clause (somebody did something).
-You think the children should be in bed. It’s already 11 o’clock.
+6. `Mark has many friends, but he looks so depressed as if he didn't have a friend in the world.`
 
-You haven't had a holiday for a very long time. You need one now.
+7. `It was a long time ago that we first met but I remember it as if it were yesterday.`
 
-You're waiting for Mary. She is late. Why isn’t she here yet?
+8. `Steve has only met Nicole once but he talks about her as if she were a close friend.`
 
-You're sitting on a train waiting for it to leave the station. It’s already five minutes late.
-You enjoy having parties. You haven’t had one for a long time.
+9. `When Joanna came in from the rainstorm, she looked as if she had taken a shower with her clothes on.`
 
-oF of Lối ud
+10. `She will be here, but she spoke as if she wouldn't be here.`
 
+### III. Read the situation and write sentences with It's time + clause (somebody did something).
+
+`You think the children should be in bed. It's already 11 o'clock.` → `It's time the children were in bed.`
+
+`You haven't had a holiday for a very long time. You need one now.` → `It's time you had a holiday.`
+
+`You're waiting for Mary. She is late. Why isn't she here yet?` → `It's time Mary was here.`
+
+`You're sitting on a train waiting for it to leave the station. It's already five minutes late.` → `It's time the train left.`
+
+`You enjoy having parties. You haven't had one for a long time.` → `It's time we had a party.`
+
+---
 
 --- *Trang 260* ---
 
+`The company you work for is badly run. You think there should be some changes.` → `It's time there were some changes in this company.`
 
-10.
+`It's 10 o'clock and Tim is still in bed. You think he should get up now.` → `It's time Tim got up.`
 
-The company you work for is badly run. You think there should be some changes.
-It’s 10 o'clock and Tim is still in bed. You think he should get up now.
+`You want your parents to stop treating Tommy like a child. He's 18 years old.` → `It's time my parents stopped treating Tommy like a child.`
 
-You want your parents to stop treating Tommy like a child. He's 18 years old.
+`You and your friends enjoy the picnic. But it's too late. You must go home immediately.` → `It's time we went home.`
 
-You and your friends enjoy the picnic. But it’s too late. You must go home immediately.
+`The windows are very dirty. You think they should be cleaned now.` → `It's time the windows were cleaned.`
 
-. The windows are very dirty. You think they should be cleaned now.
+### IV. Complete the sentences with the suggestions in the list.
 
-Complete the sentences with the suggestions in the list.
+```
+be an engineer
+study Chinese
+not go out
+stay home
+lie on the beach
+not tell you
+go to an opera
+go out with their friends
+stay home with their parents
+```
 
-be an engineer study Chinese
+`I went to the movies last night. I prefer opera to movies. I would rather have gone to an opera.`
 
-not go out stay home y a
+`I studied French when I was in high school only because my parents wanted me to. I would rather have studied Chinese.`
 
-lie on the beach not tell you
+`Jack's parents want him to become a doctor, but he'd rather be an engineer.`
 
-go to an opera go out with their friends ... stay home with their ng
-I went to the movies last night. I prefer opera to movies. I would rather
+`I know you want to know, but I'd rather not tell you. I told Marge that I'd keep it a secret.`
 
-1 studied French when I was in high school only because my parents wanted me to.
-1 would rather
+`Sometimes teenagers would rather go out with their friends than stay home with their parents.`
 
-Jack’s parents want him to become a doctor; buthedrather... "hề. 0,
-I know you want to know, but I'd rather . I told Marge that I'd
-keep it a secret.
+`I would rather have stayed home right after dinner at the restaurant last night, but my friends insisted on going to the cinema.`
 
-Sometimes teenagers would rather than
+`Tonight, I'd really rather stay home. I want to get a good night's sleep for the first time all week.`
 
-I would rather right after dinner at the restaurant last night, but
-my friends insisted on going to the cinema.
+`I don't want to do anything energetic. I'd rather lie on the beach.`
 
-Tonight, I'd really rather ______. I want to get a good night's sleep for
-the first time all week.
+### V. Use your own ideas to complete these sentences.
 
-I don’t want to do anything energetic. I'd rather
+`A: Shall I tell Ann the news?`
+`B: No, I'd rather she didn't know.`
 
-Use your own ideas to complete these sentences.
+`I'd like to see you again, but I'm busy tomorrow. I'd rather you came at the weekend.`
 
-A: Shall I tell Ann the news?
+`I'd rather we hadn't watched that horror film — I had a nightmare that night.`
 
-B: No, I'd rather she
+`A: I told her a few facts about herself.`
+`B: Oh dear! I'd rather you hadn't told her that. That might have upset her a lot.`
 
-Td like to see you again, but I'm busy temorrow. Pdratheryou__ at the weekend.
-I'd rather we that horror film - I had a nightmare that night.
+`This is a private letter addressed to me. I'd rather you didn't read it.`
 
-A: Itold her a few facts about herself.
+`It's quite a nice house but I'd rather it were a bit bigger.`
 
-B: Oh dear! I'd rather you that. That might have been upset her a lot.
-This is a private letter addressed to me. I'd rather you it.
+`A: Do you mind if I turn on the radio?`
+`B: I'd rather you didn't. I'm trying to study.`
 
-It’s quite a nice house but Id ratherit _______ a bit bigger.
+`Mary left my party very early last night. I'd rather she hadn't left so early.`
 
-A: Do you mind if I turn on the radio?
+`It's a secret — I'd rather you didn't tell anyone what I said.`
 
-B: I'd rather you . I'm trying to study.
+`A: I'm sorry I didn't come yesterday.`
+`B: Yesterday's difficult. I'd rather you came today.`
 
-Mary left my party very early last night. I'd rather she so early.
+### VI. Choose the correct answer.
 
-It’s a secret - I'd rather you anyone what I said.
+1. `John would rather _____ free tomorrow.`
+   a. is &nbsp; b. was &nbsp; c. **be** &nbsp; d. will be
 
-A: I'm sorry I didn’t come yesterday.
+2. `I would rather he _____ her to his birthday party last Sunday.`
+   a. have invited &nbsp; b. **had invited** &nbsp; c. invited &nbsp; d. would invite
 
-B: Yesterday's difficult. I'd rather you
+3. `We'd better take an umbrella with us because it looks as if it _____.`
+   a. **is going to rain** &nbsp; b. would rain &nbsp; c. is raining &nbsp; d. rained
 
-VI. Choose the correct answer.
-
-1
-
-2.
-
-John would rather _— free tomorrow.
-
-a.is b.was c. be d. will be
-
-I would ratherhe hertohis birthday party last Sunday.
-
-a. have invited b. had invited c. invited d. would invite
-We'd better take an umbrella with us because it looks as if it
-
-a.is going torain  b. would rain c. is raining d. rained
-
+---
 
 --- *Trang 261* ---
 
-10.
+4. `It's time we all _____ now.`
+   a. had gone &nbsp; b. go &nbsp; c. should go &nbsp; d. **went**
 
-11.
+5. `It's high time you _____ the tea ready.`
+   a. have got &nbsp; b. **got** &nbsp; c. get &nbsp; d. had got
 
-12.
+6. `I don't like Nick. He talks as if he _____ everything.`
+   a. **knew** &nbsp; b. had known &nbsp; c. knows &nbsp; d. will know
 
-13.
+7. `I'd rather you _____ me now.`
+   a. had paid &nbsp; b. is paying &nbsp; c. **paid** &nbsp; d. pay
 
-14.
+8. `You're very selfish. It's high time you _____ that you're not the most important person in the world.`
+   a. realize &nbsp; b. had realized &nbsp; c. have realized &nbsp; d. **realized**
 
-15.
+9. `When I told them my plan, they looked at me as if I _____ mad.`
+   a. **was** &nbsp; b. am &nbsp; c. had been &nbsp; d. will be
 
-It’s time we all now.
+10. `Jack spent his money as if he _____ a lottery.`
+    a. won &nbsp; b. **had won** &nbsp; c. has won &nbsp; d. wins
 
-a. had gone b. go c. should go d. went
+11. `Peter would rather _____ on a mattress than on the floor.`
+    a. to sleep &nbsp; b. sleeping &nbsp; c. **sleep** &nbsp; d. have slept
 
-It’s high time you the tea ready.
+12. `The medicine made me feel dizzy. I felt as though the room _____ around and around.`
+    a. **were spinning** &nbsp; b. will spin &nbsp; c. spins &nbsp; d. is spinning
 
-a. have got b. got c. get d. had got
+13. `It's time for everybody _____ to bed.`
+    a. go &nbsp; b. **to go** &nbsp; c. goes &nbsp; d. went
 
-I don’t like Nick. He talks as if he - everything.
+14. `Did you go to the concert last night? ~ Yes, but I'd rather _____ to the concert.`
+    a. not go &nbsp; b. haven't gone &nbsp; c. not have gone &nbsp; d. **not had gone**
 
-a. knew b. had known c. knows d. will know
-Idratheryou me now.
+15. `It was so quiet that it seemed as if the earth _____.`
+    a. **had stopped** &nbsp; b. would stop &nbsp; c. stopped &nbsp; d. had been stopped
 
-a. had paid b. is paying c. paid d. pay
+### VII. Write the sentences, beginning with the words given.
 
-You're very selfish. It’s high time you that you're not the most important
-person in the world.
+1. `I wasn't run over by a ten-ton truck.`
+   I feel terrible. `I feel as if I had been run over by a ten-ton truck.`
 
-a. realize b. had realized c. have realized  d. realized
+2. `I like to eat at home better than to go to the restaurant.`
+   `I'd rather eat at home than go to the restaurant.`
 
-When I told them my plan, they looked at me as if I mad.
+3. `I'd rather go to the concert tonight.`
+   `I'd prefer to go to the concert tonight.`
 
-a. was b.am ` c. had been d. will be
+4. `He spent his money like a billionaire.`
+   `He spent his money as if he had been a billionaire.`
 
-Jack spent his money as if he a lottery.
+5. `We must go home now, it's a little late.`
+   `It's high time we went home.`
 
-a. won b. had won c. has won d. wins
+6. `You should review your lessons for the exams.`
+   `It's time you reviewed your lessons for the exams.`
 
-Peter would rather on a mattress than on the floor.
+7. `English is not her native tongue.`
+   `She speaks English as if it were her native tongue.`
 
-a. to sleep b. sleeping c. sleep d. have slept
+8. `I want you to stop fighting.`
+   `I wish you would stop fighting.`
 
-The medicine made me feel dizzy. I felt as though the room ___ around and around.
-a. were spinning b. will spin c. spins d. is spinning
+9. `They didn't tell me the truth.`
+   `I'd rather they had told me the truth.`
 
-It’s time for everybody to bed.
-
-a. go b. to go c. goes d. went
-
-Did you go to the concert last night? ~ Yes, but I'd rather to the concert.
-
-a. not go b. haven't gone c. not have gone d. not had gone
-
-It was so quiet that it seemed as if the earth 4
-
-a. had stopped b. would stop c. stopped d. had been stopped
-
-VII. Write the sentences, beginning with the words given.
-
-1.
-
-2.
-
-8.
-
-9
-
-10.
-
-I wasn’t run over by a ten-ton truck.
-1 feel terrible. I feel as if
-I like to eat at home better than to go to the restaurant.
-I'd rather
-Td rather to go to the concert tonight.
-Td prefer
-He spent his money like a billionaire.
-He spent his money as if
-We must go home now, it’s a little late.
-It’s high time
-You should review your lessons for the exams.
-It’s time you
-English is not her native tongue.
-She speaks English as if
-I want you to stop fighting.
-Iwish
-They didn’t tell me the truth.
-I'd rather
-I want him to come to my house tonight.
-I'd rather
+10. `I want him to come to my house tonight.`
+    `I'd rather he came to my house tonight.`
